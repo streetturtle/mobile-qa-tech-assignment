@@ -10,7 +10,7 @@ Develop test scripts for the following scenario preferably (Java, Appium & TestN
 
 This test mainly focuses on Coding Standards using Page Object Model, the knowledge on Appium commands, the structure of test framework and git knowledge.
 
-You can download Saavn (mobile app) Apk file from this link: https://apkpure.com/saavn-music-radio/com.saavn.android
+You can download Saavn (mobile app) APK file from this link: https://apkpure.com/saavn-music-radio/com.saavn.android
 
 **Recommendations**  
 
