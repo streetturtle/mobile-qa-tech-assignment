@@ -2,11 +2,11 @@
 
 **Dear Candidate**,
 
-This is the online home assignment to assess your coding skills and problem-solving techniques. Good Luck! 
+This is the home assignment to assess your coding skills and problem-solving techniques. Good Luck! 
 
 **Question:**
 
-Develop test scripts for the following scenario preferably (Java, Appium & TestNG) and push your code to a public git repository with detailed instructions to set up an environment and be able to run your test script.
+Develop test script for the following scenario preferably (Java, Appium & TestNG) and push your code to a public git repository with detailed instructions to set up an environment and be able to run your test script.
 
 This test mainly focuses on Coding Standards using Page Object Model, the knowledge on Appium commands, the structure of test framework and git knowledge.
 
@@ -21,13 +21,13 @@ You can download Saavn (mobile app) APK file from this link: https://apkpure.com
 
 **Scenario(Onboarding)**
 1.	Launch the App
-2.	Validate the App is launched and landing Screen is displayed
-3.	Unselect “Hindi” in the landing Screen
+2.	Validate the App is launched and landing screen is displayed
+3.	Unselect “Hindi” in the landing screen
 4.	Scroll the down the “Other Languages” List to select “Assamese” language
-5.	Validate the Number of Selected Language at the footer bar of the landing Screen
+5.	Validate the number of selected language at the footer bar of the landing screen
 6.	Click on the “Done” button
-7.	Close any Advertisements that comes in between
-8.	Validate that the Home Screen is displayed
+7.	Close any advertisements that occur between any test steps
+8.	Validate that the Home screen is displayed
 9.	Close the App
 
 
